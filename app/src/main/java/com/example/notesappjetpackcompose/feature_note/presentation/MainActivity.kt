@@ -1,4 +1,4 @@
-package com.example.notesappjetpackcompose
+package com.example.notesappjetpackcompose.feature_note.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
